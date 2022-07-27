@@ -3,9 +3,10 @@
 This repository contains data and code that is used to calculate
 estimators of the Extreme Value Theory.
 
-The current focus is on the following three estimators:
+The current focus is on the following estimators:
 
 - Hill Estimator
+- Negative Hill Estimator
 - Pickands Estimator
 - Moment Estimator
 
