@@ -6,9 +6,10 @@ estimators of the Extreme Value Theory.
 The current focus is on the following estimators:
 
 - Hill Estimator
-- Negative Hill Estimator
 - Pickands Estimator
 - Moment Estimator
+- Pengs Estimator
+- W Estimator
 
 For the code checkout:
 
